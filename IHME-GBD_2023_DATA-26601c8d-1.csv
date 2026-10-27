@@ -1,0 +1,817 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,361.49103246956,412.85829427745006,303.25978162918
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,473.11369703864,546.03277437962,396.67500439447
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.98274111327,2.4456411054,1.60466681516
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.87549339894,5.92535736663,3.98844423078
+1,All Population,5,Prevalence,67,Japan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,538.23792630144,625.88246769452,455.29214858655
+1,All Population,5,Prevalence,67,Japan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,717.16046582515,828.33191182736,613.7807039755
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,487.36962192028005,556.62932464805,416.53172357562
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,583.55013194355,670.74601909794,505.67551450442
+1,All Population,5,Prevalence,26,Papua New Guinea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,454.70454018423004,523.1551641528,383.04280783209
+1,All Population,5,Prevalence,26,Papua New Guinea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,581.83482300536,676.81061556439,496.54888439616
+1,All Population,5,Prevalence,67,Japan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.50884619497,6.54101261972,4.55942626238
+1,All Population,5,Prevalence,67,Japan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,18.838284130239998,22.4044406531,15.54827223245
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,507.03124761624997,585.41924002424,429.23157248248
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,610.3547371924001,705.37541055363,512.6108224436
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,25.6136940331,30.03090680901,21.24263342447
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,52.66908294019,61.636051416899996,44.00263427984
+1,All Population,5,Prevalence,33,Armenia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,498.78119888949,579.02209985405,429.23670377631
+1,All Population,5,Prevalence,33,Armenia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,606.75871134917,693.2284065398501,525.74398875037
+1,All Population,5,Prevalence,15,Myanmar,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,371.69935553941,423.95035653137995,317.43753517772
+1,All Population,5,Prevalence,15,Myanmar,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,474.86281897584,538.42053766674,403.49720603803
+1,All Population,5,Prevalence,15,Myanmar,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.6403313208199999,2.03992897939,1.3152996965
+1,All Population,5,Prevalence,15,Myanmar,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.05616972187,4.87552408313,3.2797575573600004
+1,All Population,5,Prevalence,22,Fiji,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,426.10012050017,491.23320290795004,353.27819201635003
+1,All Population,5,Prevalence,22,Fiji,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,554.33927782863,636.89794296427,469.70360566521
+1,All Population,5,Prevalence,22,Fiji,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.43030769235,1.79282201384,1.16330170458
+1,All Population,5,Prevalence,22,Fiji,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.3959167145399998,4.14984901105,2.72704673124
+1,All Population,5,Prevalence,114,Haiti,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,526.98637005965,604.36606224656,451.34360693587
+1,All Population,5,Prevalence,114,Haiti,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,617.29005618821,715.42192696601,528.8312496491
+1,All Population,5,Prevalence,114,Haiti,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.369653291,4.1255749396,2.71169417598
+1,All Population,5,Prevalence,114,Haiti,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.29712955213,9.83967785225,6.72339947043
+1,All Population,5,Prevalence,28,Solomon Islands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,444.09953421375,503.79432228609005,372.27904522878
+1,All Population,5,Prevalence,28,Solomon Islands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,570.6815731473699,655.34021498879,482.00917475042
+1,All Population,5,Prevalence,28,Solomon Islands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.2961441298999998,1.64460289518,1.0470491767399999
+1,All Population,5,Prevalence,28,Solomon Islands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.05830276739,3.69081714937,2.47225180655
+1,All Population,5,Prevalence,17,Sri Lanka,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,323.97252008349,373.42308353542,276.01225098225
+1,All Population,5,Prevalence,17,Sri Lanka,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,377.96939378639,430.54941025805,319.20411348603
+1,All Population,5,Prevalence,17,Sri Lanka,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.03991125189,2.49327349873,1.6402246030999998
+1,All Population,5,Prevalence,17,Sri Lanka,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.85599265141,5.8341284598800005,4.005562781819999
+1,All Population,5,Prevalence,80,France,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,467.69524272813,529.33096626734,405.87396429993
+1,All Population,5,Prevalence,80,France,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,520.4306968768001,588.24778014109,458.20400072962997
+1,All Population,5,Prevalence,80,France,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,56.96799489869,63.98972780369999,50.21474804523999
+1,All Population,5,Prevalence,80,France,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,130.24302972608,147.67466018217002,115.20155302367999
+1,All Population,5,Prevalence,61,Republic of Moldova,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,490.05469003989,563.75773378741,419.32528516265995
+1,All Population,5,Prevalence,61,Republic of Moldova,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,594.23435088125,680.4579695231799,507.82948755117
+1,All Population,5,Prevalence,61,Republic of Moldova,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,14.88120869149,17.91491256149,12.46225238825
+1,All Population,5,Prevalence,61,Republic of Moldova,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,24.40641723026,30.26837080243,20.21445985935
+1,All Population,5,Prevalence,74,Andorra,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,564.88869784964,650.4459339689801,469.41083928318
+1,All Population,5,Prevalence,74,Andorra,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,672.18377902957,774.3821018710701,558.92128947734
+1,All Population,5,Prevalence,69,Singapore,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,453.74971007007,511.87334844264,399.2777919994
+1,All Population,5,Prevalence,69,Singapore,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,596.17098091249,665.32686718094,534.65082935775
+1,All Population,5,Prevalence,69,Singapore,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.26164861819,2.72039989035,1.86113191124
+1,All Population,5,Prevalence,69,Singapore,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.73858366088,8.05179782802,5.486617191200001
+1,All Population,5,Prevalence,30,Vanuatu,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,419.67379950709,479.24705703634,350.81603216372
+1,All Population,5,Prevalence,30,Vanuatu,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,548.68980865724,629.76878325072,459.92042219562
+1,All Population,5,Prevalence,30,Vanuatu,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.3452804759800001,1.68778612354,1.08010869152
+1,All Population,5,Prevalence,30,Vanuatu,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.3257912103800003,4.05266815201,2.64014322008
+1,All Population,5,Prevalence,27,Samoa,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,423.43517950974,489.42867896862003,353.22139500084
+1,All Population,5,Prevalence,27,Samoa,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,549.33094660391,623.8980100305599,456.9467667327
+1,All Population,5,Prevalence,27,Samoa,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.48536810617,1.84433699598,1.20258151675
+1,All Population,5,Prevalence,27,Samoa,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.5166465976300003,4.26087078772,2.88129231457
+1,All Population,5,Prevalence,109,Cuba,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,484.73011381199,550.17895786826,420.99703281718
+1,All Population,5,Prevalence,109,Cuba,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,569.11184696861,652.00581000764,494.30246198387005
+1,All Population,5,Prevalence,109,Cuba,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.614480219220001,7.745209827259999,5.53934117132
+1,All Population,5,Prevalence,109,Cuba,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,17.17802310683,19.94395342321,14.28316440106
+1,All Population,5,Prevalence,14,Maldives,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,388.86156191086,440.97988867133006,330.63221231366
+1,All Population,5,Prevalence,14,Maldives,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,488.85588963219993,560.07999610527,417.31589473565003
+1,All Population,5,Prevalence,14,Maldives,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.0330942676,2.47261985418,1.67234752109
+1,All Population,5,Prevalence,14,Maldives,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.79727632062,5.79973280865,3.87437159129
+1,All Population,5,Prevalence,88,Malta,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,557.56558556189,640.17778933858,462.69893008052
+1,All Population,5,Prevalence,88,Malta,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,660.07185180636,758.0818703610801,558.06117414074
+1,All Population,5,Prevalence,88,Malta,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,24.494559289130002,28.756861619669998,20.789089655239998
+1,All Population,5,Prevalence,88,Malta,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,50.07103450251999,58.42318561542,42.45059278798
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,691.6529737432401,791.65039901573,595.40428911185
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,783.1896876854,899.59562776159,676.39599729873
+1,All Population,5,Prevalence,11,Indonesia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,383.48886793042,440.13080311992996,324.81673621867003
+1,All Population,5,Prevalence,11,Indonesia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,481.84121017836,556.07929947182,407.09992417068
+1,All Population,5,Prevalence,11,Indonesia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.65375431132,2.06541592758,1.34153020966
+1,All Population,5,Prevalence,11,Indonesia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.9288451492800003,4.75940514165,3.19184313469
+1,All Population,5,Prevalence,75,Austria,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,542.94509677607,633.18314540196,458.67140056428
+1,All Population,5,Prevalence,75,Austria,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,652.2651528714999,748.21954738892,546.6427186896101
+1,All Population,5,Prevalence,24,Marshall Islands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,421.16810669487,488.77882696034,349.17640717727
+1,All Population,5,Prevalence,24,Marshall Islands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,547.88339108087,626.3281221308599,458.77282899308995
+1,All Population,5,Prevalence,24,Marshall Islands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.29914038644,1.61278391103,1.0548795227499999
+1,All Population,5,Prevalence,24,Marshall Islands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.1312888745799996,3.7957507294000004,2.50910651499
+1,All Population,5,Prevalence,35,Georgia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,492.74386870505,565.8301049441,421.44766308330003
+1,All Population,5,Prevalence,35,Georgia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,593.99208117691,681.44706566742,506.53012146972
+1,All Population,5,Prevalence,35,Georgia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.7500337222399995,5.5479028784599995,3.93435801943
+1,All Population,5,Prevalence,35,Georgia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.96475560015,14.183937019460002,10.0470687474
+1,All Population,5,Prevalence,116,Saint Lucia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,525.8054576012199,602.0131987198499,450.17786686410994
+1,All Population,5,Prevalence,116,Saint Lucia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,624.56769753472,720.27185440065,532.90487786447
+1,All Population,5,Prevalence,122,Ecuador,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,391.14059590676004,451.9837705765,334.89057318958004
+1,All Population,5,Prevalence,122,Ecuador,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,475.87676792012996,544.9862904316301,405.36943599214
+1,All Population,5,Prevalence,122,Ecuador,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.62854705335,3.04581176139,2.24653464632
+1,All Population,5,Prevalence,122,Ecuador,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.235748512849999,7.38613972272,5.27745574641
+1,All Population,5,Prevalence,179,Ethiopia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,437.82160477575,502.01666115412996,373.23470833509
+1,All Population,5,Prevalence,179,Ethiopia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,651.94028025402,758.89521719348,554.47343373173
+1,All Population,5,Prevalence,116,Saint Lucia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.43689476929,5.2981160014,3.60588275546
+1,All Population,5,Prevalence,116,Saint Lucia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.22172468836,13.237633915520002,9.313077467260001
+1,All Population,5,Prevalence,216,Senegal,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,324.29809450143,372.8792879488,273.69229260423
+1,All Population,5,Prevalence,216,Senegal,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,459.84710323613996,527.42994145605,392.74385120024
+1,All Population,5,Prevalence,216,Senegal,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.86296190371,4.6044004875,3.14331088692
+1,All Population,5,Prevalence,216,Senegal,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.9450329564999995,8.42598066319,5.59208216219
+1,All Population,5,Prevalence,82,Greece,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,735.61912642032,848.1922450063,619.18103318922
+1,All Population,5,Prevalence,82,Greece,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,807.40009799537,936.0763469017,681.2576873414099
+1,All Population,5,Prevalence,155,Türkiye,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,599.54142550395,687.20043239314,507.20744512807
+1,All Population,5,Prevalence,155,Türkiye,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,760.21948845706,874.1990434264,654.34879001976
+1,All Population,5,Prevalence,155,Türkiye,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,28.74382014288,30.81418216283,26.659709431289997
+1,All Population,5,Prevalence,155,Türkiye,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,68.3574763624,74.11650990775999,63.070342806030006
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,391.48168780930996,451.36860201504993,337.60281332644996
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,472.55699434827,544.24132896748,413.95704219121
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.3229369321099997,2.77638032058,1.89136153913
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.339444379010001,6.312215978139999,4.43332065572
+1,All Population,5,Prevalence,195,Namibia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,405.45496314518,470.29393275958,342.56427382271
+1,All Population,5,Prevalence,195,Namibia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,599.72650578213,690.38870102274,509.49370938033996
+1,All Population,5,Prevalence,82,Greece,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,68.70010240088,78.53682443643,59.299081557920005
+1,All Population,5,Prevalence,82,Greece,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,113.70408102581999,130.34531111389998,98.10107687720001
+1,All Population,5,Prevalence,74,Andorra,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,53.388615530070005,63.21832085528,44.57626090862
+1,All Population,5,Prevalence,74,Andorra,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,147.9783613658,173.75485809282,120.97759748224
+1,All Population,5,Prevalence,108,Belize,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,534.22728195055,617.27029575817,457.3840625818
+1,All Population,5,Prevalence,108,Belize,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,635.4990060610199,726.16016491698,550.32095032463
+1,All Population,5,Prevalence,71,Australia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,664.64378480658,758.745998056,560.20635820534
+1,All Population,5,Prevalence,71,Australia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,915.29747223959,1045.27321434181,761.5781316648901
+1,All Population,5,Prevalence,71,Australia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,40.62329430076,45.64590757434,35.169815333989995
+1,All Population,5,Prevalence,71,Australia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,81.07772358507,94.51820710514001,68.43781148280999
+1,All Population,5,Prevalence,203,Cabo Verde,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.32672657916,5.1325729107899996,3.5239544377
+1,All Population,5,Prevalence,203,Cabo Verde,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.14215713084,9.80314382439,6.5936727923600005
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,526.71431114279,605.35760515864,440.58196895326006
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,724.73842782628,835.7104678952501,605.96317399518
+1,All Population,5,Prevalence,168,Angola,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,496.51861607551,566.47801018998,422.5283991856
+1,All Population,5,Prevalence,168,Angola,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,839.18581360102,960.81622057086,720.3205330467
+1,All Population,5,Prevalence,168,Angola,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4810431602699996,4.21753944203,2.80525984098
+1,All Population,5,Prevalence,168,Angola,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.2069997491499995,7.3826521431100005,5.0843262330200005
+1,All Population,5,Prevalence,161,Bangladesh,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,379.88313495284996,432.67479701414,324.26301965388
+1,All Population,5,Prevalence,161,Bangladesh,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,452.74548685158004,518.3425025422699,385.38775429049997
+1,All Population,5,Prevalence,161,Bangladesh,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.87712638039,5.88777527183,3.9596619816500005
+1,All Population,5,Prevalence,161,Bangladesh,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.91903976905,11.8310476259,8.19091641596
+1,All Population,5,Prevalence,209,Guinea-Bissau,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,319.67266710224,367.11985600166,274.92216215268
+1,All Population,5,Prevalence,209,Guinea-Bissau,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,454.04956727736004,520.12542466108,386.97962145804
+1,All Population,5,Prevalence,209,Guinea-Bissau,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4154342982300006,4.1275509467500004,2.69622122839
+1,All Population,5,Prevalence,209,Guinea-Bissau,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.21398335038,7.47957024159,5.0109418871399996
+1,All Population,5,Prevalence,90,Norway,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,668.6588232551101,774.02699331265,554.20335041493
+1,All Population,5,Prevalence,90,Norway,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,766.78401357277,882.5886941976901,633.6481202032601
+1,All Population,5,Prevalence,90,Norway,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,91.87033212323,106.98601385357999,76.38511502729999
+1,All Population,5,Prevalence,90,Norway,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,194.18837381925,228.67399386741002,162.61026002148
+1,All Population,5,Prevalence,127,El Salvador,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,578.27260467412,667.0318022730901,497.31377097017
+1,All Population,5,Prevalence,127,El Salvador,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,686.30158143222,792.9540354909399,579.5600170303101
+1,All Population,5,Prevalence,127,El Salvador,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.18776873524,3.76148065752,2.58802272567
+1,All Population,5,Prevalence,127,El Salvador,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.710373735080001,10.3667650968,7.213294103350001
+1,All Population,5,Prevalence,108,Belize,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.25069777454,5.07636047015,3.4194852293899998
+1,All Population,5,Prevalence,108,Belize,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.669798849600001,12.719629514280001,8.86293295785
+1,All Population,5,Prevalence,18,Thailand,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,384.89648400629,444.15770673100997,326.59502423148
+1,All Population,5,Prevalence,18,Thailand,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,511.33676934114,584.0193991032099,432.19277520623
+1,All Population,5,Prevalence,29,Tonga,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,434.02351478511997,496.12050728834,365.6626438102
+1,All Population,5,Prevalence,29,Tonga,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,563.3454516179199,646.15323058745,475.11093260336
+1,All Population,5,Prevalence,29,Tonga,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.56921424543,1.9569801816,1.24661252187
+1,All Population,5,Prevalence,29,Tonga,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.72904962786,4.53715062599,3.04233747518
+1,All Population,5,Prevalence,16,Philippines,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,380.54897156359,438.81165488852,324.44256209693
+1,All Population,5,Prevalence,16,Philippines,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,466.88160263014004,540.48210073339,396.3995396645
+1,All Population,5,Prevalence,16,Philippines,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.9346768771499998,2.37912512979,1.57916134437
+1,All Population,5,Prevalence,16,Philippines,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.72420217081,5.65367865941,3.86280028569
+1,All Population,5,Prevalence,135,Brazil,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,775.59411405625,890.54739117232,661.68888801815
+1,All Population,5,Prevalence,135,Brazil,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,894.2970942131199,1018.9681144596899,772.18997431027
+1,All Population,5,Prevalence,135,Brazil,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.89134392279,6.89691439359,4.90628707536
+1,All Population,5,Prevalence,135,Brazil,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,15.92394645071,18.63297412746,13.431115949310001
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,502.53885811729003,576.79009022152,434.80962843969
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,602.10331280345,689.4883530586401,518.15048270399
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.7130572565,5.60082775964,3.85863644967
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.34988020005,13.46099054992,9.19318139698
+1,All Population,5,Prevalence,118,Suriname,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.37491847231,5.110423599,3.5935915129400002
+1,All Population,5,Prevalence,118,Suriname,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.31571060752,11.02677346668,7.711586094469999
+1,All Population,5,Prevalence,26,Papua New Guinea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.33582814117,1.6759665733600002,1.08281698428
+1,All Population,5,Prevalence,26,Papua New Guinea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.12024084972,3.77940013084,2.50788692162
+1,All Population,5,Prevalence,63,Ukraine,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,494.60013899586005,576.86535634913,407.82291524169005
+1,All Population,5,Prevalence,63,Ukraine,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,601.10162433869,700.3515619944,510.25129321781003
+1,All Population,5,Prevalence,63,Ukraine,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,20.20983974469,23.979165112340002,16.82487788376
+1,All Population,5,Prevalence,63,Ukraine,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,38.52270990838,45.46474528198,31.98536677861
+1,All Population,5,Prevalence,84,Ireland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,551.30039537548,638.6339151002401,455.68349493025005
+1,All Population,5,Prevalence,84,Ireland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,647.42189776408,742.14612849351,539.1056663584001
+1,All Population,5,Prevalence,84,Ireland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,96.61026437314,111.47168384630999,83.03951841882
+1,All Population,5,Prevalence,84,Ireland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,226.32786425480998,257.55649978687,197.06120183899
+1,All Population,5,Prevalence,76,Belgium,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,594.10214639219,675.16580927493,501.53497351883
+1,All Population,5,Prevalence,76,Belgium,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,741.06348715456,856.1817963648899,627.29690606137
+1,All Population,5,Prevalence,76,Belgium,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,56.37223376994,66.03898265739,47.33001082994
+1,All Population,5,Prevalence,76,Belgium,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,122.46692077312,143.55370234458,105.01669087608
+1,All Population,5,Prevalence,92,Spain,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,435.90622784114004,501.54487132360003,371.79417234933004
+1,All Population,5,Prevalence,92,Spain,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,572.23371742325,652.15090361851,488.12454850326003
+1,All Population,5,Prevalence,92,Spain,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,52.91865498622,57.20522161321001,48.89475774637
+1,All Population,5,Prevalence,92,Spain,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,104.14021788346,111.64789538916,96.93979595057
+1,All Population,5,Prevalence,218,Togo,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,318.20094308377,369.61824936157,272.9683178898
+1,All Population,5,Prevalence,218,Togo,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,454.30111397165,521.60616601121,387.14081517236
+1,All Population,5,Prevalence,218,Togo,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.53084353473,4.2424305357900005,2.83958651966
+1,All Population,5,Prevalence,218,Togo,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.48593288517,8.053993514170001,5.20273104119
+1,All Population,5,Prevalence,123,Peru,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,398.53866209222,459.64003213049995,343.53236020472
+1,All Population,5,Prevalence,123,Peru,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,489.51614361069,564.43900154571,422.56889480598994
+1,All Population,5,Prevalence,123,Peru,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.5962368752900002,3.0957448295399996,2.1267291989
+1,All Population,5,Prevalence,123,Peru,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.06512854518,7.14554894746,4.97082996393
+1,All Population,5,Prevalence,181,Madagascar,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,406.71129605340997,466.2026557155,346.35337864464003
+1,All Population,5,Prevalence,181,Madagascar,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,628.55327318805,727.07970934312,537.53550052223
+1,All Population,5,Prevalence,181,Madagascar,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.81704663062,4.6063361723,3.08174626713
+1,All Population,5,Prevalence,181,Madagascar,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.56010012183,7.8662187474000005,5.302448389549999
+1,All Population,5,Prevalence,211,Mali,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.67277423686,4.3915941814,2.98490476542
+1,All Population,5,Prevalence,211,Mali,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.702225210020001,8.1645874997,5.41970142715
+1,All Population,5,Prevalence,39,Tajikistan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,470.99085498373006,538.91277084311,402.02083428056
+1,All Population,5,Prevalence,39,Tajikistan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,566.2360935419,651.4305510786901,484.92153641005
+1,All Population,5,Prevalence,39,Tajikistan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.591802847369999,5.44106270197,3.7370179354100004
+1,All Population,5,Prevalence,39,Tajikistan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.49952675759,12.39095955633,8.65292040152
+1,All Population,5,Prevalence,110,Dominica,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.94391455726,5.78908390129,4.09981538742
+1,All Population,5,Prevalence,110,Dominica,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.34350961873,12.208449363929999,8.61795851307
+1,All Population,5,Prevalence,94,Switzerland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,529.43235934521,610.96078199744,444.51178989667994
+1,All Population,5,Prevalence,94,Switzerland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,709.55317542328,819.87701671764,596.8523683998101
+1,All Population,5,Prevalence,94,Switzerland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,69.68296740859999,81.83930479673,57.18368139734
+1,All Population,5,Prevalence,94,Switzerland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,168.87942168250999,200.96184730286998,142.58134326227
+1,All Population,5,Prevalence,86,Italy,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,648.6904639741999,751.75311179456,540.1687668921099
+1,All Population,5,Prevalence,86,Italy,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,837.4308470851299,965.18037482929,707.92005321918
+1,All Population,5,Prevalence,86,Italy,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,67.32968636093001,78.63944545237,57.66580375938
+1,All Population,5,Prevalence,86,Italy,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,126.63151844904,148.04148116822,108.36556985279
+1,All Population,5,Prevalence,136,Paraguay,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,689.5474769508199,790.4422873691201,590.7363729129099
+1,All Population,5,Prevalence,136,Paraguay,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,809.5866294521401,929.2225952305901,699.42388680077
+1,All Population,5,Prevalence,163,India,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,393.86615045535996,454.74449240827005,335.29390821219
+1,All Population,5,Prevalence,163,India,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,449.64049961767,516.7608897792,383.11740304326
+1,All Population,5,Prevalence,163,India,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.44698447886,5.34724638722,3.5757990282599996
+1,All Population,5,Prevalence,163,India,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.32253102234,11.08250451156,7.748200547850001
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.74596758556,5.62230234082,3.9570970442
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.181372356859999,13.178568203980001,9.19007686005
+1,All Population,5,Prevalence,18,Thailand,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.98338766116,2.43030401415,1.60110423595
+1,All Population,5,Prevalence,18,Thailand,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.92175744576,5.9022120139,4.02751041162
+1,All Population,5,Prevalence,170,Congo,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,545.72598062752,606.12554125317,479.35539974668
+1,All Population,5,Prevalence,170,Congo,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,793.42212708584,871.6587700584699,721.4123142213
+1,All Population,5,Prevalence,170,Congo,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.30391704422,3.90245573155,2.67833647496
+1,All Population,5,Prevalence,170,Congo,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.88407006123,7.15519188193,4.72587454091
+1,All Population,5,Prevalence,129,Honduras,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,578.38672863489,665.75903468355,492.64595119212004
+1,All Population,5,Prevalence,129,Honduras,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,674.73250096993,783.98027220092,579.3826350404701
+1,All Population,5,Prevalence,129,Honduras,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.9860647186500002,3.5871730086299998,2.43852483582
+1,All Population,5,Prevalence,129,Honduras,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.50147998403,10.152242374230001,6.8422155374
+1,All Population,5,Prevalence,139,Algeria,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,584.67356613911,668.07205886505,498.25418528729995
+1,All Population,5,Prevalence,139,Algeria,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,737.9838082008,853.5642334261601,630.99321825045
+1,All Population,5,Prevalence,139,Algeria,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,24.816375985169998,29.37388927393,20.49880705953
+1,All Population,5,Prevalence,139,Algeria,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,69.56708625389,83.55754855612001,57.070748063879996
+1,All Population,5,Prevalence,118,Suriname,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,536.86350086626,616.63379580748,455.90390427534
+1,All Population,5,Prevalence,118,Suriname,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,639.04215662387,738.64655865335,544.36021190707
+1,All Population,5,Prevalence,78,Denmark,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,445.32359777263997,508.93000148291003,381.66010430622
+1,All Population,5,Prevalence,78,Denmark,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,493.94331731613005,559.96834013572,418.19864293009
+1,All Population,5,Prevalence,78,Denmark,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,96.4537729033,113.73951708036999,82.59239588845
+1,All Population,5,Prevalence,78,Denmark,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,164.98940375678,190.78366971844,140.76207824359
+1,All Population,5,Prevalence,125,Colombia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.87187548566,4.22608263469,3.57658705331
+1,All Population,5,Prevalence,125,Colombia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.83891646388,10.31643782113,9.42282011441
+1,All Population,5,Prevalence,87,Luxembourg,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,417.80532291602,485.32209190501,351.27151541587
+1,All Population,5,Prevalence,87,Luxembourg,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,493.94266691916,575.08558316006,417.01710707316
+1,All Population,5,Prevalence,131,Nicaragua,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,589.18971744792,678.63196792899,502.36710227659
+1,All Population,5,Prevalence,131,Nicaragua,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,694.98364510888,791.6100017471899,596.73450480339
+1,All Population,5,Prevalence,131,Nicaragua,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4049000538699996,4.03985454372,2.77826448425
+1,All Population,5,Prevalence,131,Nicaragua,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.53564578518,11.10343299717,7.93587204331
+1,All Population,5,Prevalence,33,Armenia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.57606503294,6.642606743259999,4.64702415802
+1,All Population,5,Prevalence,33,Armenia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,12.68304832871,15.28540942051,10.48151267011
+1,All Population,5,Prevalence,141,Egypt,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,13.033362037489999,15.818801028700001,10.71964300378
+1,All Population,5,Prevalence,141,Egypt,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,32.04476106938,38.8560030985,25.780363438509998
+1,All Population,5,Prevalence,172,Equatorial Guinea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.43326949091,4.1164384458,2.74667303845
+1,All Population,5,Prevalence,172,Equatorial Guinea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.218485273540001,7.44584225158,5.0421124228
+1,All Population,5,Prevalence,79,Finland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,561.12324882357,643.0657466773,463.50090123538
+1,All Population,5,Prevalence,79,Finland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,657.55839889991,748.1308199792401,550.44141631917
+1,All Population,5,Prevalence,110,Dominica,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,520.34981999853,602.46721101345,449.94613459377996
+1,All Population,5,Prevalence,110,Dominica,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,618.61681118131,709.91241923089,532.86570390976
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.7360010464099997,4.38750592481,3.05320507443
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.88581010286,12.55653409705,9.19961791979
+1,All Population,5,Prevalence,183,Mauritius,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,374.69833611822,429.60057400387996,319.83072170453
+1,All Population,5,Prevalence,183,Mauritius,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,475.24266164671997,541.7787087404,407.27297304221
+1,All Population,5,Prevalence,183,Mauritius,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.58560464967,3.1897496170700004,2.11724573908
+1,All Population,5,Prevalence,183,Mauritius,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.15282794876,6.18831749369,4.23852035413
+1,All Population,5,Prevalence,203,Cabo Verde,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,317.14135703376,364.31714486235995,268.35273067127997
+1,All Population,5,Prevalence,203,Cabo Verde,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,460.06348874079,526.42598298241,395.80608799681005
+1,All Population,5,Prevalence,185,Rwanda,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,415.90148816401,479.12013744375,354.4257645221
+1,All Population,5,Prevalence,185,Rwanda,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,640.18416911781,730.49379813348,542.88209629479
+1,All Population,5,Prevalence,185,Rwanda,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.47015711472,4.18322517377,2.84836628453
+1,All Population,5,Prevalence,185,Rwanda,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.19307029717,7.451284522029999,5.00010115916
+1,All Population,5,Prevalence,125,Colombia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,579.8019213251,665.13042926763,495.65427783138
+1,All Population,5,Prevalence,125,Colombia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,683.71202484955,788.2775029779099,588.2550764110599
+1,All Population,5,Prevalence,164,Nepal,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,380.96095750497,436.94538587866,328.74664813974
+1,All Population,5,Prevalence,164,Nepal,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,457.46098580058003,524.6024366588999,395.63493278433
+1,All Population,5,Prevalence,49,North Macedonia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,471.32508867941004,540.65648155416,389.83891767847996
+1,All Population,5,Prevalence,49,North Macedonia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,587.86286156316,676.0435379387101,497.40854735712
+1,All Population,5,Prevalence,38,Mongolia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,509.59083642098,588.63074065003,435.45967854749
+1,All Population,5,Prevalence,38,Mongolia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,611.59822986029,708.44919682019,525.8425051519399
+1,All Population,5,Prevalence,38,Mongolia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.357344852500001,5.12501476764,3.60612384376
+1,All Population,5,Prevalence,38,Mongolia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.95448586758,12.941256023340001,9.10604522182
+1,All Population,5,Prevalence,111,Dominican Republic,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,514.82117579729,586.51165297637,443.6259599947
+1,All Population,5,Prevalence,111,Dominican Republic,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,639.26418481393,726.9350133752799,556.85959171652
+1,All Population,5,Prevalence,111,Dominican Republic,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.2031801270399995,4.9878387342599995,3.39241634516
+1,All Population,5,Prevalence,111,Dominican Republic,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.27763760667,12.17746629782,8.50615325083
+1,All Population,5,Prevalence,98,Chile,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,564.92858696605,659.65049464583,485.3081314447
+1,All Population,5,Prevalence,98,Chile,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,695.40162843284,807.97559290541,595.83956898581
+1,All Population,5,Prevalence,98,Chile,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,7.22175273916,8.59487779741,5.89457228976
+1,All Population,5,Prevalence,98,Chile,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,7.9151594976199995,9.32895723777,6.500080188999999
+1,All Population,5,Prevalence,172,Equatorial Guinea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,496.78329559426004,566.6737050117699,426.11995510108
+1,All Population,5,Prevalence,172,Equatorial Guinea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,833.29402504336,960.36585449327,712.87046716791
+1,All Population,5,Prevalence,51,Poland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,483.35285900156,558.3402748497,395.28859654812
+1,All Population,5,Prevalence,51,Poland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,603.5022015893,694.31252172429,504.30561551808
+1,All Population,5,Prevalence,51,Poland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,42.72786251416,46.73358930028,38.78925233405
+1,All Population,5,Prevalence,51,Poland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,78.17725987758,85.05078330081,71.77694567014001
+1,All Population,5,Prevalence,40,Turkmenistan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,480.95450373941003,552.8211258865999,413.51037805106
+1,All Population,5,Prevalence,40,Turkmenistan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,574.58106045082,660.59114425763,494.18758686985007
+1,All Population,5,Prevalence,50,Montenegro,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,479.58494470891,552.37447149802,398.30565866130996
+1,All Population,5,Prevalence,50,Montenegro,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,597.6164915046099,683.07621280511,504.51656335291
+1,All Population,5,Prevalence,50,Montenegro,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,30.67727663646,35.64853860701,25.66529589236
+1,All Population,5,Prevalence,50,Montenegro,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,48.45343012154,56.03106631901,41.5034289125
+1,All Population,5,Prevalence,113,Guyana,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,526.5381115599,607.64667736871,445.6744704787
+1,All Population,5,Prevalence,113,Guyana,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,621.69289115203,716.50591601028,534.21979756978
+1,All Population,5,Prevalence,113,Guyana,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4586196419400004,4.16254621464,2.77774431509
+1,All Population,5,Prevalence,113,Guyana,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.76804086671,10.55890197101,7.234231961119999
+1,All Population,5,Prevalence,40,Turkmenistan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.95542937882,5.79354996743,4.12436395422
+1,All Population,5,Prevalence,40,Turkmenistan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.318615759130001,12.00203973828,8.717231047459999
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,591.78078746899,685.7858490492499,496.69904558348
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,748.14169978646,859.2946953725601,636.01767623076
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,34.870707888080005,39.019085235880006,30.78454636938
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,103.6427985811,115.56955105282,91.83508923088
+1,All Population,5,Prevalence,10,Cambodia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,376.68730344377,429.04342778235,322.29078673204003
+1,All Population,5,Prevalence,10,Cambodia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,472.18128456577995,540.17035689298,401.42787140125
+1,All Population,5,Prevalence,102,United States of America,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,674.7950829041399,784.87359054966,548.25673278596
+1,All Population,5,Prevalence,102,United States of America,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,819.08336894782,943.94874019586,690.0453977076
+1,All Population,5,Prevalence,197,Eswatini,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,398.5521875102,460.86525710477,339.16126816363
+1,All Population,5,Prevalence,197,Eswatini,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,586.6720820368099,675.24912065898,502.57598075407003
+1,All Population,5,Prevalence,197,Eswatini,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4214441574800003,4.05739572212,2.76172162272
+1,All Population,5,Prevalence,197,Eswatini,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.10203328472,7.320718533220001,4.94466782955
+1,All Population,5,Prevalence,34,Azerbaijan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,504.53607800945997,575.90409077344,429.47531711600004
+1,All Population,5,Prevalence,34,Azerbaijan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,599.29741671275,687.20199967199,514.49072833163
+1,All Population,5,Prevalence,115,Jamaica,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,617.34935396194,705.32565587046,534.17034346508
+1,All Population,5,Prevalence,115,Jamaica,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,732.16016800148,839.58767522686,627.50443239859
+1,All Population,5,Prevalence,115,Jamaica,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.74568940268,5.64018371224,3.8896214883
+1,All Population,5,Prevalence,115,Jamaica,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.31858730918,13.43865544945,9.45938599303
+1,All Population,5,Prevalence,187,Somalia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.3940707584500003,4.0616583763000005,2.7789258122300002
+1,All Population,5,Prevalence,187,Somalia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.88023813465,7.09718862615,4.7592853076
+1,All Population,5,Prevalence,132,Panama,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,573.24371468449,663.30018335188,496.62605574361
+1,All Population,5,Prevalence,132,Panama,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,679.27168131105,785.0617823111301,584.19255676494
+1,All Population,5,Prevalence,132,Panama,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.44921237819,4.10265971146,2.7958646918700003
+1,All Population,5,Prevalence,132,Panama,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.92921902029,12.767597185489999,9.14550606792
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,498.7992403027,570.1018926022,432.67427815229
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,838.11829862841,962.3493273440699,719.50901628871
+1,All Population,5,Prevalence,85,Israel,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,323.68964064949,372.76561170005004,273.20031166442004
+1,All Population,5,Prevalence,85,Israel,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,377.3738538637,436.32203349605004,311.49905590232
+1,All Population,5,Prevalence,85,Israel,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,40.51945512378,48.911017201949996,33.66318551964
+1,All Population,5,Prevalence,85,Israel,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,79.71185065196,94.82325285326,65.06489667855
+1,All Population,5,Prevalence,53,Serbia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,483.79921827983003,554.73968246015,399.48425521474
+1,All Population,5,Prevalence,53,Serbia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,598.22723553104,683.85203461733,509.96668057629
+1,All Population,5,Prevalence,53,Serbia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,49.38627139317,59.36243104279,39.71325227163
+1,All Population,5,Prevalence,53,Serbia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,103.62121771408,142.28669554370998,84.5191492556
+1,All Population,5,Prevalence,176,Comoros,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,411.20034619341,471.40971803217997,354.95948308068
+1,All Population,5,Prevalence,176,Comoros,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,632.01149683425,725.5721742562,542.37141330771
+1,All Population,5,Prevalence,176,Comoros,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.0555034157800005,4.85246557804,3.32467553303
+1,All Population,5,Prevalence,176,Comoros,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.98641013751,8.36796583944,5.74327462221
+1,All Population,5,Prevalence,119,Trinidad and Tobago,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,531.68986669214,611.63677456267,454.47962328603995
+1,All Population,5,Prevalence,119,Trinidad and Tobago,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,633.39083820298,734.93311790288,543.86492868338
+1,All Population,5,Prevalence,119,Trinidad and Tobago,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.22806538536,4.99967006362,3.40320325966
+1,All Population,5,Prevalence,119,Trinidad and Tobago,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.81597787406,13.77722438077,9.781118520400002
+1,All Population,5,Prevalence,212,Mauritania,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,328.65684878226,375.28196487078,279.79409255646
+1,All Population,5,Prevalence,212,Mauritania,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,461.72885815133,528.90778295194,391.49679851925
+1,All Population,5,Prevalence,212,Mauritania,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.1744151379900005,5.02627041567,3.3838027320100004
+1,All Population,5,Prevalence,212,Mauritania,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,7.3657564898,9.14749224397,5.95723659659
+1,All Population,5,Prevalence,187,Somalia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,419.83348584550004,484.33241636108,362.07301050022
+1,All Population,5,Prevalence,187,Somalia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,646.16619260288,738.80537503508,553.92399872189
+1,All Population,5,Prevalence,102,United States of America,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,59.905730538140006,64.53331770049999,55.53846543208
+1,All Population,5,Prevalence,102,United States of America,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,155.11890364558002,166.0610046453,145.09864166192
+1,All Population,5,Prevalence,72,New Zealand,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,732.7520425962999,846.12293765007,613.73594115081
+1,All Population,5,Prevalence,72,New Zealand,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,918.85333582366,1063.5373858606602,761.84275169376
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,446.5408857772,512.02245010834,375.24406025563997
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,585.0275464320899,671.87435376422,495.67023572284995
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,532.5267215836,611.12462505413,460.09490944846
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,631.2417756531399,730.93897115466,539.08942068737
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.15486010903,4.9458130564500005,3.3712701102000002
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,10.745275059659999,12.65229838588,8.93935155991
+1,All Population,5,Prevalence,97,Argentina,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,555.3247776051,640.87484783296,479.03113515791
+1,All Population,5,Prevalence,97,Argentina,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,685.71862899007,786.28461818049,590.5299658064199
+1,All Population,5,Prevalence,97,Argentina,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,16.92291300136,18.358462740980002,15.59258153839
+1,All Population,5,Prevalence,97,Argentina,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,21.770741793779997,23.63760711227,20.07284436892
+1,All Population,5,Prevalence,178,Eritrea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,406.58628490998,462.75854855767005,351.43431880653
+1,All Population,5,Prevalence,178,Eritrea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,629.4464803723799,720.09347267715,539.98609383957
+1,All Population,5,Prevalence,87,Luxembourg,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,59.363899332219994,69.59946219567,49.77293065176
+1,All Population,5,Prevalence,87,Luxembourg,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,134.8645308793,157.84319227325,113.11915392882999
+1,All Population,5,Prevalence,55,Slovenia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,483.14064328464,564.09123366921,404.72341001448
+1,All Population,5,Prevalence,55,Slovenia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,597.07648324547,678.94725165059,507.57926848244006
+1,All Population,5,Prevalence,55,Slovenia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,29.552809668760002,35.009938743599996,24.66395081688
+1,All Population,5,Prevalence,55,Slovenia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,58.62862109695,67.00756410544,51.09317591264001
+1,All Population,5,Prevalence,178,Eritrea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.64854759321,4.37507038954,2.93685799159
+1,All Population,5,Prevalence,178,Eritrea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.278519288599999,7.4081222986699995,5.06903210411
+1,All Population,5,Prevalence,214,Nigeria,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,293.12046033352,337.30314504488,250.55243473161
+1,All Population,5,Prevalence,214,Nigeria,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,425.82508729433,491.54753888996,362.50197854372
+1,All Population,5,Prevalence,214,Nigeria,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.69397201149,4.40733922397,2.99502698063
+1,All Population,5,Prevalence,214,Nigeria,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.4242824258,7.81846264134,5.177352287410001
+1,All Population,5,Prevalence,99,Uruguay,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,557.71164816981,647.56901760169,473.26854939826
+1,All Population,5,Prevalence,99,Uruguay,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,689.13706263421,789.26953241141,598.10701205447
+1,All Population,5,Prevalence,99,Uruguay,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,12.13525812218,14.294054964699999,10.056936514939999
+1,All Population,5,Prevalence,99,Uruguay,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,13.75957393114,16.02605431485,11.34062398485
+1,All Population,5,Prevalence,201,Burkina Faso,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,333.7320321549,384.20077504817,283.90968910304997
+1,All Population,5,Prevalence,201,Burkina Faso,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,479.39518446721996,549.07044481534,414.22840129513
+1,All Population,5,Prevalence,201,Burkina Faso,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.63718589775,4.4258728317400005,2.90007457668
+1,All Population,5,Prevalence,201,Burkina Faso,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.618678743139999,8.02629835884,5.37436342517
+1,All Population,5,Prevalence,101,Canada,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,688.96608817168,792.0697542101999,579.9824224397801
+1,All Population,5,Prevalence,101,Canada,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,866.34690806426,986.0183711635599,745.4258615784701
+1,All Population,5,Prevalence,101,Canada,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,83.23923970097,85.13699718037,81.36925566106001
+1,All Population,5,Prevalence,101,Canada,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,188.66055786044,195.31392718414997,181.97347935414
+1,All Population,5,Prevalence,58,Estonia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,487.4511590483,564.03659557142,412.47212199313003
+1,All Population,5,Prevalence,58,Estonia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,594.99614360627,682.40469322451,504.26200529898006
+1,All Population,5,Prevalence,58,Estonia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,22.46978796152,26.72906577074,18.45184001729
+1,All Population,5,Prevalence,58,Estonia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,49.326664607169995,58.169972470919994,39.96225723256
+1,All Population,5,Prevalence,180,Kenya,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,423.73251797299,489.54843760584,360.5527743983
+1,All Population,5,Prevalence,180,Kenya,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,640.55996532709,747.9129543095801,545.2854570572599
+1,All Population,5,Prevalence,180,Kenya,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4247103767100002,4.11082404545,2.76284921775
+1,All Population,5,Prevalence,180,Kenya,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.9580400329900005,7.17200421636,4.83783484268
+1,All Population,5,Prevalence,43,Albania,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,495.53196735663,567.1581075009,413.43238061019997
+1,All Population,5,Prevalence,43,Albania,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,610.92494927029,699.54190117696,519.9589136573701
+1,All Population,5,Prevalence,43,Albania,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,41.772161846150006,48.511116027010004,35.18439804289
+1,All Population,5,Prevalence,43,Albania,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,74.09238629022,83.37577030234,63.483075547039995
+1,All Population,5,Prevalence,156,United Arab Emirates,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,19.66416927405,23.35513821504,16.64995342019
+1,All Population,5,Prevalence,156,United Arab Emirates,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,52.183834120010005,62.24940969993,43.26232913415
+1,All Population,5,Prevalence,169,Central African Republic,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,469.98990521952,530.7179412850301,408.00041485703
+1,All Population,5,Prevalence,169,Central African Republic,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,914.53938378499,1044.7807898343501,779.69346347961
+1,All Population,5,Prevalence,169,Central African Republic,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.01837742231,3.69259723925,2.40121743154
+1,All Population,5,Prevalence,169,Central African Republic,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.32205056394,6.504944099449999,4.25660268946
+1,All Population,5,Prevalence,13,Malaysia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,402.14477085921,457.9838092563,342.96529815719003
+1,All Population,5,Prevalence,13,Malaysia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,541.8648493393,618.76661081326,459.15906698564
+1,All Population,5,Prevalence,182,Malawi,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,404.66085089358,469.35089984301,342.36871987547
+1,All Population,5,Prevalence,182,Malawi,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,627.95925930718,724.32870032246,536.4227796714999
+1,All Population,5,Prevalence,182,Malawi,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.55628287616,4.28105520081,2.86282197334
+1,All Population,5,Prevalence,182,Malawi,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.20039243298,7.60668112566,5.00616371066
+1,All Population,5,Prevalence,136,Paraguay,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.181395727470001,7.37402392587,5.0059658571600005
+1,All Population,5,Prevalence,136,Paraguay,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,14.81241516256,17.423928479129998,12.42616454045
+1,All Population,5,Prevalence,45,Bulgaria,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,480.34627465337996,553.86188876414,405.89473311229
+1,All Population,5,Prevalence,45,Bulgaria,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,593.45807287285,683.6534741168599,500.62356328806
+1,All Population,5,Prevalence,45,Bulgaria,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,15.6805132834,18.76685270752,12.98922377992
+1,All Population,5,Prevalence,45,Bulgaria,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,34.66120474091,39.53048870774,29.316455026999996
+1,All Population,5,Prevalence,184,Mozambique,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,400.9246203682,457.10754911771,342.58272549757
+1,All Population,5,Prevalence,184,Mozambique,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,632.1856449471301,724.48966700836,538.1331542138901
+1,All Population,5,Prevalence,184,Mozambique,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.66154802234,4.43726025847,2.96331884747
+1,All Population,5,Prevalence,184,Mozambique,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.35114322962,7.6205638575800005,5.17461340984
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.32684654766,4.00726807373,2.6965943877600003
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.86844324767,7.12431689548,4.748297571799999
+1,All Population,5,Prevalence,141,Egypt,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,619.51127320108,703.8835988938,525.75318154984
+1,All Population,5,Prevalence,141,Egypt,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,746.87958719266,846.50996746259,638.31906275669
+1,All Population,5,Prevalence,186,Seychelles,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,369.14932196752,420.39496927952,313.59955860682
+1,All Population,5,Prevalence,186,Seychelles,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,470.88423832895006,538.88750880998,403.12888221182
+1,All Population,5,Prevalence,186,Seychelles,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.78004685172,2.22218304649,1.44366970306
+1,All Population,5,Prevalence,186,Seychelles,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.91579614115,5.87282589282,3.96364098924
+1,All Population,5,Prevalence,47,Czechia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,478.23929322900005,548.80108499414,400.90977831696995
+1,All Population,5,Prevalence,47,Czechia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,594.5514406119499,680.95416207607,504.63081549261994
+1,All Population,5,Prevalence,47,Czechia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,33.31822190513,38.93070482915,27.73441280397
+1,All Population,5,Prevalence,47,Czechia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,58.242315482189994,67.45380614826,50.645832867100005
+1,All Population,5,Prevalence,89,Netherlands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,660.1004882441899,745.73827752076,558.31693050567
+1,All Population,5,Prevalence,89,Netherlands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,703.45634609967,805.0347762727599,589.7377335665101
+1,All Population,5,Prevalence,89,Netherlands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,72.59198492649,75.84150692991,69.3644624474
+1,All Population,5,Prevalence,89,Netherlands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,167.10802590871,174.24770391459,160.31847660899
+1,All Population,5,Prevalence,165,Pakistan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,383.03345814706,446.71948355003997,322.62858304274005
+1,All Population,5,Prevalence,165,Pakistan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,448.39067137633003,520.69346315264,376.26613600191996
+1,All Population,5,Prevalence,165,Pakistan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.3514818799,5.22081916297,3.50029482616
+1,All Population,5,Prevalence,165,Pakistan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.95536299866,10.60595709117,7.367835822539999
+1,All Population,5,Prevalence,49,North Macedonia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,24.36315634554,29.04119931369,20.58695025746
+1,All Population,5,Prevalence,49,North Macedonia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,42.89968071604,49.52142434717,36.93228817678
+1,All Population,5,Prevalence,91,Portugal,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,592.74413212315,689.22606604339,496.436369067
+1,All Population,5,Prevalence,91,Portugal,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,520.3632718744,599.6240244933799,440.35044575423996
+1,All Population,5,Prevalence,91,Portugal,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,23.72331892874,26.340167919269998,21.43660216008
+1,All Population,5,Prevalence,91,Portugal,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,55.00024119215,61.03335704481,49.43217024401
+1,All Population,5,Prevalence,93,Sweden,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,494.25420481151997,568.21480095772,415.65659872512003
+1,All Population,5,Prevalence,93,Sweden,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,621.30303459347,709.51693625877,527.1154134416
+1,All Population,5,Prevalence,93,Sweden,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,74.1430604493,80.60684890511,68.07440401709
+1,All Population,5,Prevalence,93,Sweden,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,184.87963215462,200.99992789989997,168.32184483055
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,71.98310101893,81.04398808360999,62.59077014243
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,144.66675314105,163.96373525250002,127.06201858283
+1,All Population,5,Prevalence,148,Morocco,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,573.76841032453,661.4577780989,471.12115697777
+1,All Population,5,Prevalence,148,Morocco,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,723.75266657259,827.6131638143501,626.24981587698
+1,All Population,5,Prevalence,320,Cook Islands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,433.85119567773006,494.81248874537,359.50561153286003
+1,All Population,5,Prevalence,320,Cook Islands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,567.43879379196,656.97302627942,476.45128160225994
+1,All Population,5,Prevalence,204,Chad,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,332.29448333491,380.07857369016,286.09457969451
+1,All Population,5,Prevalence,204,Chad,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,471.18181816251,538.7888938274,403.29480298282004
+1,All Population,5,Prevalence,204,Chad,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.4639412883499996,4.1327938917,2.77462303775
+1,All Population,5,Prevalence,204,Chad,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.38212354536,7.718610737290001,5.17006396817
+1,All Population,5,Prevalence,143,Iraq,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,566.1164787984501,647.38624883465,464.43431000117994
+1,All Population,5,Prevalence,143,Iraq,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,730.07195476955,829.28858684132,625.28871659643
+1,All Population,5,Prevalence,143,Iraq,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,18.47346204216,22.69725385908,14.8661781448
+1,All Population,5,Prevalence,143,Iraq,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,49.74003639838,59.603722427639994,40.704241073809996
+1,All Population,5,Prevalence,156,United Arab Emirates,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,580.77287260811,665.44390249378,491.35946562982
+1,All Population,5,Prevalence,156,United Arab Emirates,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,708.08019904031,813.59660056677,596.69119827218
+1,All Population,5,Prevalence,369,Nauru,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,429.07991550840995,490.90453785298,356.41554785584003
+1,All Population,5,Prevalence,369,Nauru,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,558.40477841666,640.73287995214,469.13009205402005
+1,All Population,5,Prevalence,369,Nauru,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.20166187232,1.54387276434,0.9515710767000001
+1,All Population,5,Prevalence,369,Nauru,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.9189081576,3.57973325566,2.32618266967
+1,All Population,5,Prevalence,191,Zambia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,408.60594341373,467.75931256650995,354.21811301342
+1,All Population,5,Prevalence,191,Zambia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,632.02885928484,722.33265345954,544.06790207657
+1,All Population,5,Prevalence,191,Zambia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.61654906597,4.34729642113,2.93578539898
+1,All Population,5,Prevalence,191,Zambia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.350321698819999,7.650077054870001,5.05971897211
+1,All Population,5,Prevalence,145,Kuwait,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,575.61696994252,659.58370556551,477.64259582333
+1,All Population,5,Prevalence,145,Kuwait,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,740.86677142371,849.9915859715501,637.67930034781
+1,All Population,5,Prevalence,145,Kuwait,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,43.135200577490004,49.55249394987,36.89388113837
+1,All Population,5,Prevalence,145,Kuwait,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,87.69583761935999,99.09266773357,76.55696790068001
+1,All Population,5,Prevalence,376,Northern Mariana Islands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.61985432709,2.01493886948,1.32279375226
+1,All Population,5,Prevalence,376,Northern Mariana Islands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.8483348365,4.69838512458,3.1186446888800003
+1,All Population,5,Prevalence,206,Gambia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,321.54923790341,367.71773974697004,272.02346605203996
+1,All Population,5,Prevalence,206,Gambia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,457.1670251898,519.71710078055,389.76933163246
+1,All Population,5,Prevalence,206,Gambia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.7479968758299997,4.62731179576,2.99871499146
+1,All Population,5,Prevalence,206,Gambia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.7769813359399995,8.17701655068,5.46045239739
+1,All Population,5,Prevalence,193,Botswana,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,414.45180744355,475.26101964048,351.79678728366997
+1,All Population,5,Prevalence,193,Botswana,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,608.76655999918,695.64147899061,522.80391234157
+1,All Population,5,Prevalence,193,Botswana,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.6899199403900003,4.4394816723399995,2.92946383483
+1,All Population,5,Prevalence,193,Botswana,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.665383166590001,8.05300705902,5.35071866207
+1,All Population,5,Prevalence,75,Austria,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,62.833380667890005,66.7726169577,59.543084164919996
+1,All Population,5,Prevalence,75,Austria,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,161.44476572071,170.14964002201998,154.59268491716
+1,All Population,5,Prevalence,160,Afghanistan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,584.41992960794,662.6118657686401,488.4367750464
+1,All Population,5,Prevalence,160,Afghanistan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,741.48346259756,849.9047888818201,633.74200246027
+1,All Population,5,Prevalence,160,Afghanistan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,17.01114999684,20.124207048789998,14.1897091024
+1,All Population,5,Prevalence,160,Afghanistan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,42.46722622464,51.25935200568,35.33333645471
+1,All Population,5,Prevalence,147,Libya,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,579.93482382745,670.87108771767,478.29949632082
+1,All Population,5,Prevalence,147,Libya,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,725.97262985022,839.60461052813,619.95608436234
+1,All Population,5,Prevalence,147,Libya,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,16.85248636045,20.210074501210002,14.08829879201
+1,All Population,5,Prevalence,147,Libya,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,55.56448692888,66.58095404103,45.809325470729995
+1,All Population,5,Prevalence,208,Guinea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,328.02268004078,370.83029704318,283.20390792019
+1,All Population,5,Prevalence,208,Guinea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,464.9461648281,532.0512881105201,399.37663052109
+1,All Population,5,Prevalence,195,Namibia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.5307240396,4.22477570952,2.8492387520799998
+1,All Population,5,Prevalence,195,Namibia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.3853047938000005,7.73882476022,5.15169542238
+1,All Population,5,Prevalence,376,Northern Mariana Islands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,424.84927393733994,487.95216778057,356.83463101258
+1,All Population,5,Prevalence,376,Northern Mariana Islands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,557.32579231204,639.04908582997,469.27635390843
+1,All Population,5,Prevalence,208,Guinea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.51205053789,4.25676680974,2.8413904671
+1,All Population,5,Prevalence,208,Guinea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.366829373180001,7.71651760686,5.17744987119
+1,All Population,5,Prevalence,105,Antigua and Barbuda,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,526.53825541845,605.79300551685,449.18549923252004
+1,All Population,5,Prevalence,105,Antigua and Barbuda,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,626.15678055444,717.86876666878,538.51919931828
+1,All Population,5,Prevalence,105,Antigua and Barbuda,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.64762695847,5.6520848375299995,3.8124595779300003
+1,All Population,5,Prevalence,105,Antigua and Barbuda,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,16.864791371189998,20.09703406719,14.05575709122
+1,All Population,5,Prevalence,196,South Africa,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,419.87493380514,486.69029749253,356.6064847066
+1,All Population,5,Prevalence,196,South Africa,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,613.19621440199,710.83223297936,521.4891790019
+1,All Population,5,Prevalence,215,Sao Tome and Principe,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,315.58868216893995,361.83620776361005,269.25769725824
+1,All Population,5,Prevalence,215,Sao Tome and Principe,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,447.17815081328,509.39102944977,374.77097781432997
+1,All Population,5,Prevalence,215,Sao Tome and Principe,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.7192767136200002,4.49314208613,3.0546446711599997
+1,All Population,5,Prevalence,215,Sao Tome and Principe,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.85459109277,8.41089054493,5.51620444768
+1,All Population,5,Prevalence,19,Timor-Leste,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,386.55783888385,444.36880728157,330.6585756458
+1,All Population,5,Prevalence,19,Timor-Leste,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,488.74667409169996,560.74630247874,418.74713070376004
+1,All Population,5,Prevalence,19,Timor-Leste,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.61653512637,2.00400103073,1.3240449548
+1,All Population,5,Prevalence,19,Timor-Leste,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.85759377372,4.5986426752,3.10829427943
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,480.49701914755,548.81716309744,401.90661311515004
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,598.44409596931,680.16032922742,501.43141059446003
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,18.08634005011,20.93796778447,15.21045471795
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,30.520310942400002,35.248319704269996,26.33961572898
+1,All Population,5,Prevalence,210,Liberia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,320.83146215343,366.59547316828,274.72968426532
+1,All Population,5,Prevalence,210,Liberia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,452.41926580115,520.01268882917,390.11851492076
+1,All Population,5,Prevalence,210,Liberia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.60938532814,4.31987992175,2.89184071351
+1,All Population,5,Prevalence,210,Liberia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.46397075434,7.835291409000001,5.20464405114
+1,All Population,5,Prevalence,77,Cyprus,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,568.6421002879999,653.78172541638,468.49086211138
+1,All Population,5,Prevalence,77,Cyprus,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,671.63754324248,775.5508291928701,560.56851780026
+1,All Population,5,Prevalence,77,Cyprus,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,41.67184449471,48.9048751851,35.19255547328
+1,All Population,5,Prevalence,77,Cyprus,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,79.91927999696999,92.32192494492,66.56880404255
+1,All Population,5,Prevalence,217,Sierra Leone,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,330.77776017304,378.2217687634,281.86559419910003
+1,All Population,5,Prevalence,217,Sierra Leone,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,466.39118873701,536.92071170051,399.77505204255
+1,All Population,5,Prevalence,217,Sierra Leone,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.5298114962300002,4.13711113202,2.8791263938
+1,All Population,5,Prevalence,217,Sierra Leone,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.42404981191,7.7731871759699995,5.15327129061
+1,All Population,5,Prevalence,79,Finland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,72.71942690956999,77.90434940092,67.44225672192
+1,All Population,5,Prevalence,79,Finland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,170.98745019535,182.01623032933998,161.02176230681002
+1,All Population,5,Prevalence,162,Bhutan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,375.12717060459,424.35078726399996,317.40519245257
+1,All Population,5,Prevalence,162,Bhutan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,450.21815392118003,513.91400412242,385.56455632896
+1,All Population,5,Prevalence,162,Bhutan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.8259396122,5.88182838688,3.88261133955
+1,All Population,5,Prevalence,162,Bhutan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.75482982319,11.70934998966,8.0137197402
+1,All Population,5,Prevalence,164,Nepal,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.689360789469999,5.67565613469,3.74257478885
+1,All Population,5,Prevalence,164,Nepal,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,9.749114536170001,11.56920518827,8.00037013004
+1,All Population,5,Prevalence,6,China,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,743.38869582614,854.73034839603,632.98939330036
+1,All Population,5,Prevalence,6,China,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,1059.86879579178,1221.75123379959,905.87393917929
+1,All Population,5,Prevalence,179,Ethiopia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.8227109436599997,4.51275405916,3.10786597359
+1,All Population,5,Prevalence,179,Ethiopia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.61019767683,7.79008987253,5.35271798313
+1,All Population,5,Prevalence,422,United States Virgin Islands,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,521.57678004601,607.50734355757,447.76122838593005
+1,All Population,5,Prevalence,422,United States Virgin Islands,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,624.3724392085501,718.51815804358,531.7588066347801
+1,All Population,5,Prevalence,57,Belarus,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,487.23109912022,558.18898735908,413.08472386662
+1,All Population,5,Prevalence,57,Belarus,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,589.64919209762,673.14131316398,503.37557931133995
+1,All Population,5,Prevalence,57,Belarus,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,22.39010335172,26.70960014778,18.68927385633
+1,All Population,5,Prevalence,57,Belarus,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,42.170083306070005,49.61919329205,35.02597366262
+1,All Population,5,Prevalence,211,Mali,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,336.4074704786,386.25707197417,288.84327093395
+1,All Population,5,Prevalence,211,Mali,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,472.81270872036,539.66134639642,402.37451241144
+1,All Population,5,Prevalence,149,Palestine,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,578.43724824922,661.58896496814,480.07214162338
+1,All Population,5,Prevalence,149,Palestine,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,733.37069209249,842.4693918455,630.6074983214099
+1,All Population,5,Prevalence,149,Palestine,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,27.18814674884,32.83402416286,22.73617230378
+1,All Population,5,Prevalence,149,Palestine,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,67.76717379459001,79.58029423608001,55.501362913739996
+1,All Population,5,Prevalence,126,Costa Rica,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,578.65367576805,662.48581219398,500.08774870704
+1,All Population,5,Prevalence,126,Costa Rica,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,681.4253408626801,791.1282070244,588.18452202882
+1,All Population,5,Prevalence,126,Costa Rica,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.26931807665,5.0152563926600005,3.49946661498
+1,All Population,5,Prevalence,126,Costa Rica,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,12.57357127576,14.59800130681,10.4662826197
+1,All Population,5,Prevalence,13,Malaysia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.71754611733,2.01171868765,1.48631058557
+1,All Population,5,Prevalence,13,Malaysia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.14742141926,4.5122080996700005,3.8630665819799996
+1,All Population,5,Prevalence,34,Azerbaijan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.6721573775700005,5.53686153245,3.8477881312799997
+1,All Population,5,Prevalence,34,Azerbaijan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.00084838938,13.308738811220001,9.00720170904
+1,All Population,5,Prevalence,157,Yemen,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,590.32862731208,673.65269794789,497.05549036747
+1,All Population,5,Prevalence,157,Yemen,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,745.73231269582,853.42167955019,642.4945632591
+1,All Population,5,Prevalence,157,Yemen,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,17.34474530736,20.70306243525,14.47248348712
+1,All Population,5,Prevalence,157,Yemen,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,43.88807468741,52.563122987,36.07202292879
+1,All Population,5,Prevalence,190,Uganda,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,403.37702041462995,461.67236384671,342.9154995004
+1,All Population,5,Prevalence,190,Uganda,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,626.0185368868,721.99718034011,535.15736790176
+1,All Population,5,Prevalence,190,Uganda,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.50200446838,4.20528781662,2.7825247068800003
+1,All Population,5,Prevalence,190,Uganda,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.208185135290001,7.5151785669099995,5.05078050808
+1,All Population,5,Prevalence,173,Gabon,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,491.08276262986004,564.8421920826701,414.38784640633
+1,All Population,5,Prevalence,173,Gabon,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,833.3482905830899,959.14412931188,720.25503632691
+1,All Population,5,Prevalence,66,Brunei Darussalam,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,493.70706194859,564.97546030612,421.41505767621
+1,All Population,5,Prevalence,66,Brunei Darussalam,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,638.50846589833,732.51991027234,546.3461763512599
+1,All Population,5,Prevalence,66,Brunei Darussalam,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.9211735144300002,2.36317548944,1.5695814766
+1,All Population,5,Prevalence,66,Brunei Darussalam,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.00902970072,7.10047193443,4.90960415968
+1,All Population,5,Prevalence,189,United Republic of Tanzania,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,392.93324812796004,444.24686642418004,341.1846928762
+1,All Population,5,Prevalence,189,United Republic of Tanzania,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,635.15962710669,720.51236705818,556.2884958785501
+1,All Population,5,Prevalence,189,United Republic of Tanzania,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.60813558504,4.31289902011,2.94095937361
+1,All Population,5,Prevalence,189,United Republic of Tanzania,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.272198732990001,7.56242451031,5.05746962015
+1,All Population,5,Prevalence,46,Croatia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,486.38989158823995,557.81969895536,406.05241230395995
+1,All Population,5,Prevalence,46,Croatia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,608.07957226806,697.85356532239,522.83867623425
+1,All Population,5,Prevalence,194,Lesotho,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,414.35656028079,471.86780951251,349.28214138756
+1,All Population,5,Prevalence,194,Lesotho,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,607.13829624924,701.37312870658,521.36069510874
+1,All Population,5,Prevalence,194,Lesotho,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.32080679136,3.9494754314900002,2.6393138769399997
+1,All Population,5,Prevalence,194,Lesotho,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.00359434114,7.238982734,4.884300687970001
+1,All Population,5,Prevalence,106,Bahamas,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,523.47239048934,598.6599058732801,454.56987205388003
+1,All Population,5,Prevalence,106,Bahamas,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,620.69791612151,715.59233954603,535.4487957236
+1,All Population,5,Prevalence,106,Bahamas,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.25842002552,7.368654408339999,5.09003328363
+1,All Population,5,Prevalence,106,Bahamas,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,14.7158493397,17.353191298360002,12.507642615740002
+1,All Population,5,Prevalence,298,American Samoa,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,430.45761814991,489.74955697742,360.13883762992003
+1,All Population,5,Prevalence,298,American Samoa,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,558.10761355693,644.71215100798,469.37769889191
+1,All Population,5,Prevalence,298,American Samoa,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.46098100536,1.86933944057,1.1894549968299999
+1,All Population,5,Prevalence,298,American Samoa,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.52546934501,4.264114205049999,2.86571666436
+1,All Population,5,Prevalence,196,South Africa,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.0445726099099994,4.76450931557,3.25755695055
+1,All Population,5,Prevalence,196,South Africa,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.41148705462,9.86418798978,6.971937757860001
+1,All Population,5,Prevalence,81,Germany,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,738.23530287682,833.75548125928,645.07324447177
+1,All Population,5,Prevalence,81,Germany,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,931.0093241177001,1038.24748600203,812.9941079060101
+1,All Population,5,Prevalence,81,Germany,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,100.19960169399,107.00158695904,93.76468599706
+1,All Population,5,Prevalence,81,Germany,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,256.86866009585003,270.66292605756996,242.19747210442
+1,All Population,5,Prevalence,349,Greenland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,657.27268847072,756.7969079433201,539.60375378498
+1,All Population,5,Prevalence,349,Greenland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,831.8045088306201,950.2773412349101,706.05908183325
+1,All Population,5,Prevalence,144,Jordan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,605.68623898477,695.4809804891499,517.72298088134
+1,All Population,5,Prevalence,144,Jordan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,758.8615129409201,875.9652846616299,650.47865161069
+1,All Population,5,Prevalence,52,Romania,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,481.06083282944,552.6236049855,401.103234251
+1,All Population,5,Prevalence,52,Romania,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,602.1059653820599,691.14706156077,515.36708718133
+1,All Population,5,Prevalence,52,Romania,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,13.345830096630001,15.745639351489999,10.87755774152
+1,All Population,5,Prevalence,52,Romania,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,22.016012001289997,25.295356087650003,18.586890312890002
+1,All Population,5,Prevalence,144,Jordan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,33.026613983219995,39.28423411041,26.4309577482
+1,All Population,5,Prevalence,144,Jordan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,82.54346433897,97.39258035492999,66.36878806179
+1,All Population,5,Prevalence,54,Slovakia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,473.59298254283004,541.07328550739,400.88669488572003
+1,All Population,5,Prevalence,54,Slovakia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,589.76558742909,676.40034177584,505.41903496129004
+1,All Population,5,Prevalence,54,Slovakia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,21.50059711266,25.175145598729998,17.75313104711
+1,All Population,5,Prevalence,54,Slovakia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,42.076085270890005,47.96577480959,36.50205869021
+1,All Population,5,Prevalence,146,Lebanon,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,574.7988804666,662.48168078637,485.35226555104003
+1,All Population,5,Prevalence,146,Lebanon,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,766.7381058934201,878.6171398579,657.14524515818
+1,All Population,5,Prevalence,146,Lebanon,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,26.1368371068,29.96670366043,22.61255728895
+1,All Population,5,Prevalence,146,Lebanon,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,58.53220590413,67.60758798573,50.540359811020004
+1,All Population,5,Prevalence,60,Lithuania,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,488.64546915404,561.94476130778,417.25535951066
+1,All Population,5,Prevalence,60,Lithuania,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,590.26648128627,677.63895100681,498.39828915102004
+1,All Population,5,Prevalence,60,Lithuania,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,29.73467459482,35.13725792082,25.00703972054
+1,All Population,5,Prevalence,60,Lithuania,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,56.746192440849995,65.41241189522,47.9237566106
+1,All Population,5,Prevalence,205,Côte d'Ivoire,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,323.36008696389996,371.29692284597,277.78661272327
+1,All Population,5,Prevalence,205,Côte d'Ivoire,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,461.96983486581996,527.79376718403,393.03358495026004
+1,All Population,5,Prevalence,205,Côte d'Ivoire,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.5262335123699997,4.21007990998,2.8455821111499997
+1,All Population,5,Prevalence,205,Côte d'Ivoire,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.423916492419999,7.81027189185,5.21769669305
+1,All Population,5,Prevalence,385,Puerto Rico,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,531.25596021452,614.0920720694199,457.29963630464005
+1,All Population,5,Prevalence,385,Puerto Rico,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,637.2257765212801,728.25179255863,542.59738467873
+1,All Population,5,Prevalence,385,Puerto Rico,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.56182062736,7.63966418204,5.37387566253
+1,All Population,5,Prevalence,385,Puerto Rico,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,17.192988584309997,19.97199856837,14.43362393113
+1,All Population,5,Prevalence,305,Bermuda,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,537.48944368834,621.97674014182,460.45576400655
+1,All Population,5,Prevalence,305,Bermuda,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,646.82578353489,741.2392060206499,549.0389993888
+1,All Population,5,Prevalence,305,Bermuda,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.20131492885,7.396183226830001,5.10806789217
+1,All Population,5,Prevalence,305,Bermuda,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,19.564928593839998,23.03945641034,16.06308648601
+1,All Population,5,Prevalence,112,Grenada,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,519.23261608217,599.53085674212,444.29246003087
+1,All Population,5,Prevalence,112,Grenada,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,623.19063764232,718.22715054347,535.2430173878699
+1,All Population,5,Prevalence,112,Grenada,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.09849353152,5.96855160708,4.21274172562
+1,All Population,5,Prevalence,112,Grenada,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,15.8516899195,18.423904790479998,13.37731860576
+1,All Population,5,Prevalence,522,Sudan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,571.24949827144,655.88540428376,477.68123445242003
+1,All Population,5,Prevalence,522,Sudan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,719.92975699534,830.60813316241,624.52935580339
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,379.38367165282,438.51862258598,323.51095590331
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,477.91916671968994,546.93228429004,411.23837963975
+1,All Population,5,Prevalence,148,Morocco,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,17.46939744638,20.614782379370002,14.608492525720001
+1,All Population,5,Prevalence,148,Morocco,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,46.62622121034,55.634769122630004,38.33847635158
+1,All Population,5,Prevalence,128,Guatemala,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,587.16845864914,672.78394759128,505.63297138999997
+1,All Population,5,Prevalence,128,Guatemala,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,690.2162112607799,797.78082635524,594.8617361137
+1,All Population,5,Prevalence,128,Guatemala,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.10640616333,3.69640424377,2.50202228594
+1,All Population,5,Prevalence,128,Guatemala,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.21896818494,9.61946786247,6.71766564999
+1,All Population,5,Prevalence,107,Barbados,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,522.8600984357299,606.04062319016,446.61168005139996
+1,All Population,5,Prevalence,107,Barbados,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,617.29069065027,710.90500633677,525.4274134071401
+1,All Population,5,Prevalence,107,Barbados,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.93218326813,6.90665169792,4.86011028181
+1,All Population,5,Prevalence,107,Barbados,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,19.78429043436,23.285474290739998,16.420664418500003
+1,All Population,5,Prevalence,140,Bahrain,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,585.1248304033301,669.43326248225,488.65151527406
+1,All Population,5,Prevalence,140,Bahrain,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,734.42604262407,846.6834622236,629.32894312344
+1,All Population,5,Prevalence,140,Bahrain,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,19.885059780179997,24.30479412858,16.36920419125
+1,All Population,5,Prevalence,140,Bahrain,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,56.714749844139995,68.15635950085,46.395452573600004
+1,All Population,5,Prevalence,150,Oman,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,558.94808191801,637.22408536873,460.08116424311004
+1,All Population,5,Prevalence,150,Oman,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,718.78388244425,817.3878429385901,618.6166058349901
+1,All Population,5,Prevalence,150,Oman,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,8.851860034020001,9.70465236363,8.09987832683
+1,All Population,5,Prevalence,150,Oman,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,26.014930394350003,28.54642804592,23.914063964790003
+1,All Population,5,Prevalence,151,Qatar,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,580.9574203394201,663.67958890073,487.29426893975995
+1,All Population,5,Prevalence,151,Qatar,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,728.4507986054,827.3956875612,622.60809371776
+1,All Population,5,Prevalence,130,Mexico,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,511.7997116132,591.63334222045,434.60842423293
+1,All Population,5,Prevalence,130,Mexico,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,625.3070197844,728.12662518359,531.77595579018
+1,All Population,5,Prevalence,130,Mexico,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.55824275336,5.30966904768,3.80181168606
+1,All Population,5,Prevalence,130,Mexico,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,11.33808920373,13.251471514050001,9.590853235440001
+1,All Population,5,Prevalence,46,Croatia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,20.80598930233,24.40958742867,17.30938844567
+1,All Population,5,Prevalence,46,Croatia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,41.844833636269996,47.59834374109,36.25101985378
+1,All Population,5,Prevalence,380,Palau,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,414.42700784740003,476.53731069157,349.33253011878
+1,All Population,5,Prevalence,380,Palau,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,545.5230937099,626.02808980181,453.55215117366
+1,All Population,5,Prevalence,396,San Marino,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,525.9125094920399,600.07103473655,445.91464727972
+1,All Population,5,Prevalence,396,San Marino,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,596.22448652679,687.81014971625,493.91779224149997
+1,All Population,5,Prevalence,396,San Marino,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,57.06525674228,68.16879111697,48.02715119658
+1,All Population,5,Prevalence,396,San Marino,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,177.10947800577,205.70883489255,145.78122978674
+1,All Population,5,Prevalence,48,Hungary,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,484.04973456061003,553.5950356694,410.66894749451
+1,All Population,5,Prevalence,48,Hungary,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,595.50954879117,674.57974010535,510.27761659227997
+1,All Population,5,Prevalence,48,Hungary,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,31.060033127509996,35.59707502532,26.724951932230002
+1,All Population,5,Prevalence,48,Hungary,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,75.37857471976,89.86621484185,63.20651947321
+1,All Population,5,Prevalence,320,Cook Islands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.72321807687,2.12558782742,1.41594212766
+1,All Population,5,Prevalence,320,Cook Islands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.09763232548,4.9750688380799994,3.33261716022
+1,All Population,5,Prevalence,6,China,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.3620791781500001,1.6671841296,1.11445889381
+1,All Population,5,Prevalence,6,China,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.8301194998900003,3.42656729676,2.30029275084
+1,All Population,5,Prevalence,349,Greenland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,53.21364994872,63.05707854332,44.809916711430006
+1,All Population,5,Prevalence,349,Greenland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,165.84297639576,202.36849427133,135.90647537739
+1,All Population,5,Prevalence,59,Latvia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,489.16067560714,568.10260829784,410.86934637583
+1,All Population,5,Prevalence,59,Latvia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,599.31240115433,692.72080309251,507.41389287269
+1,All Population,5,Prevalence,59,Latvia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,24.54567766588,28.35531995621,20.59809742357
+1,All Population,5,Prevalence,59,Latvia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,50.30981977977999,58.376936419959996,42.0273638245
+1,All Population,5,Prevalence,435,South Sudan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,414.05430145111,470.8605686521,355.47563594291
+1,All Population,5,Prevalence,435,South Sudan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,637.5185733682,730.22928906153,545.82949690568
+1,All Population,5,Prevalence,435,South Sudan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.33949608171,3.98932498002,2.6993101977
+1,All Population,5,Prevalence,435,South Sudan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.91921539776,7.154019562849999,4.83082960565
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,465.61963065343,533.25229396504,378.15826649101
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,672.42142100812,770.59684857095,547.7107558242
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.42787657553,1.7896942038900001,1.1502529719399999
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.92294418394,3.5217081164499997,2.3957640975
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,604.97663135215,681.77565839031,522.26627703953
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,728.7224922642899,821.7504602795,626.94426669378
+1,All Population,5,Prevalence,173,Gabon,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.54303933997,4.29324569066,2.87465053996
+1,All Population,5,Prevalence,173,Gabon,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.25732783264,7.48347056178,5.13284698789
+1,All Population,5,Prevalence,416,Tuvalu,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,430.50527056227,493.47202125903,364.80359161058004
+1,All Population,5,Prevalence,416,Tuvalu,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,559.7689354001,647.47074280204,469.65889611167995
+1,All Population,5,Prevalence,83,Iceland,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,614.99094793313,717.30836469479,504.21630695913
+1,All Population,5,Prevalence,83,Iceland,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,693.92623556966,793.39059207641,581.70966313724
+1,All Population,5,Prevalence,83,Iceland,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,76.91947044613,90.63413144491,62.281310263019996
+1,All Population,5,Prevalence,83,Iceland,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,155.31030592128,182.01835101234002,129.9619956044
+1,All Population,5,Prevalence,8,Taiwan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,388.88838883244,444.10414031976995,317.35318577227
+1,All Population,5,Prevalence,8,Taiwan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,595.02017763618,686.54667665899,492.63102464121
+1,All Population,5,Prevalence,8,Taiwan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.8145307338500003,4.453092997130001,3.1032386738099995
+1,All Population,5,Prevalence,8,Taiwan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.5310845963,8.138462368159999,5.27462952632
+1,All Population,5,Prevalence,416,Tuvalu,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.29726578795,1.6393973221499998,1.03402163807
+1,All Population,5,Prevalence,416,Tuvalu,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.1424835343,3.85246837375,2.54278331532
+1,All Population,5,Prevalence,522,Sudan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,18.55347964317,21.86379198474,15.14321601543
+1,All Population,5,Prevalence,522,Sudan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,47.62815833776,57.45964998242,39.02975906813
+1,All Population,5,Prevalence,207,Ghana,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,316.02400113569,361.04583544032,268.05608855571
+1,All Population,5,Prevalence,207,Ghana,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,452.70694022734,515.30689689807,389.10229123792
+1,All Population,5,Prevalence,10,Cambodia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.64353646057,2.0515584853299997,1.34256456779
+1,All Population,5,Prevalence,10,Cambodia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.9246922331499996,4.74852497641,3.1572044507699997
+1,All Population,5,Prevalence,367,Monaco,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,546.63515042654,626.7098501975701,450.62936710651
+1,All Population,5,Prevalence,367,Monaco,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,650.81667731196,744.77241305469,543.90979679464
+1,All Population,5,Prevalence,367,Monaco,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,49.27432017959,59.11404157724,40.35241630175
+1,All Population,5,Prevalence,367,Monaco,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,120.79088361091002,138.9841386648,100.83705885467
+1,All Population,5,Prevalence,374,Niue,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,413.78872679608,470.75750320402,344.1333018542
+1,All Population,5,Prevalence,374,Niue,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,543.1602352411401,622.91089179413,451.36154018241
+1,All Population,5,Prevalence,374,Niue,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.44421745892,1.82312400275,1.16527167606
+1,All Population,5,Prevalence,374,Niue,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.52041224381,4.30507419382,2.83171264365
+1,All Population,5,Prevalence,151,Qatar,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,43.20225432104,50.7247357311,38.51511792972
+1,All Population,5,Prevalence,151,Qatar,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,117.87277788892,129.47447724718,106.59499882703001
+1,All Population,5,Prevalence,351,Guam,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,428.46612520369,490.7152128726,369.76025803708
+1,All Population,5,Prevalence,351,Guam,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,563.3677782736701,648.82465085131,481.10374053357
+1,All Population,5,Prevalence,23,Kiribati,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,446.45591918657004,512.87432144809,378.33837894587003
+1,All Population,5,Prevalence,23,Kiribati,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,590.84046284972,679.47769433108,497.19409832763995
+1,All Population,5,Prevalence,23,Kiribati,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.21518748706,1.51852659393,0.97968449899
+1,All Population,5,Prevalence,23,Kiribati,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,2.97086019188,3.6018919018299997,2.3832724885
+1,All Population,5,Prevalence,152,Saudi Arabia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,553.1519646045499,636.33029574562,453.21122560899
+1,All Population,5,Prevalence,152,Saudi Arabia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,721.67558369147,829.88882251281,621.31922208863
+1,All Population,5,Prevalence,152,Saudi Arabia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,23.72826458652,25.76398243356,21.64261847471
+1,All Population,5,Prevalence,152,Saudi Arabia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,71.7582185279,78.06193059833,65.72340395955
+1,All Population,5,Prevalence,153,Syrian Arab Republic,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,580.76471361028,666.06898793774,482.56893307618003
+1,All Population,5,Prevalence,153,Syrian Arab Republic,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,737.6571321626301,844.91872850473,629.4984261349699
+1,All Population,5,Prevalence,153,Syrian Arab Republic,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,18.95765188367,23.20751640546,15.691646477319999
+1,All Population,5,Prevalence,153,Syrian Arab Republic,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,54.5009387387,65.51538569183,44.962503970840004
+1,All Population,5,Prevalence,154,Tunisia,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,588.48931165037,672.14813507638,490.97969424532
+1,All Population,5,Prevalence,154,Tunisia,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,750.7057307037,852.37623616424,643.3695804043899
+1,All Population,5,Prevalence,154,Tunisia,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,34.70808904485,41.69266566716,27.976118540410003
+1,All Population,5,Prevalence,154,Tunisia,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,67.47860799495,80.82977264191,55.579215501339995
+1,All Population,5,Prevalence,175,Burundi,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,415.83449392772997,475.71421080196,357.40631447958003
+1,All Population,5,Prevalence,175,Burundi,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,638.17682477212,731.65148950605,551.12202173793
+1,All Population,5,Prevalence,175,Burundi,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.37048039507,4.014053312600001,2.73793698938
+1,All Population,5,Prevalence,175,Burundi,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,5.91608222878,7.038309880460001,4.80269587017
+1,All Population,5,Prevalence,177,Djibouti,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,421.07125206041997,484.49471611684004,355.9495587108
+1,All Population,5,Prevalence,177,Djibouti,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,657.02464500093,748.5341399696399,563.36148854184
+1,All Population,5,Prevalence,177,Djibouti,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.84251214269,4.62621905767,3.11922287357
+1,All Population,5,Prevalence,177,Djibouti,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.61523336545,7.92012306541,5.47718802439
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.6640417565499999,2.10674318856,1.34665724409
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.93896519323,4.7021973394000005,3.19649252167
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,488.77451413366003,567.25357590932,419.26037411569
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,585.52225268204,672.0250289711299,504.4834664788
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.96051324672,5.36470424485,4.60362968442
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,12.50780241863,13.20677839825,11.810587139119999
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.34797656848,1.46510131895,1.22898247035
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.2861677279199997,3.42285754365,3.16551268788
+1,All Population,5,Prevalence,198,Zimbabwe,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,406.49815408847,461.70291958964,348.73419086071
+1,All Population,5,Prevalence,198,Zimbabwe,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,598.7338541987,690.49953403338,513.89343453539
+1,All Population,5,Prevalence,198,Zimbabwe,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.2491803926099996,3.9573036795100003,2.59051663169
+1,All Population,5,Prevalence,198,Zimbabwe,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.10187512236,7.379865840290001,4.85582749557
+1,All Population,5,Prevalence,207,Ghana,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.7128741367300004,4.4244019705,2.99430396149
+1,All Population,5,Prevalence,207,Ghana,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.62043724103,8.13421362464,5.35966091259
+1,All Population,5,Prevalence,72,New Zealand,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,30.564821464759998,36.52585002523,25.065803914500002
+1,All Population,5,Prevalence,72,New Zealand,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,70.88374942221999,83.57046279186,59.39344503461
+1,All Population,5,Prevalence,213,Niger,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,336.79864610192004,386.6850861465,290.06828854644
+1,All Population,5,Prevalence,213,Niger,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,477.33401285982,544.29273468259,410.77410204709
+1,All Population,5,Prevalence,213,Niger,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.81981807183,4.54055218968,3.08865019431
+1,All Population,5,Prevalence,213,Niger,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.7153939514,8.08441492917,5.47280226403
+1,All Population,5,Prevalence,380,Palau,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.4168632215799999,1.7988513982499998,1.13684012033
+1,All Population,5,Prevalence,380,Palau,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.3361771232499997,4.02538040296,2.66326586694
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.2823090602,1.6282265864399998,1.0247497753400001
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.1844505801699996,3.8593197744500003,2.54063987612
+1,All Population,5,Prevalence,200,Benin,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,321.14012460295004,365.25994655419,279.34975313417
+1,All Population,5,Prevalence,200,Benin,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,449.39565045663,512.04888004911,393.8314601411
+1,All Population,5,Prevalence,351,Guam,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.65829997115,2.11406057567,1.32954187745
+1,All Population,5,Prevalence,351,Guam,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.9994691137800005,4.8239591209,3.23886849396
+1,All Population,5,Prevalence,200,Benin,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.6457824793299998,4.40432938353,2.9162998620200002
+1,All Population,5,Prevalence,200,Benin,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.74105447405,8.34132269766,5.41885124897
+1,All Population,5,Prevalence,202,Cameroon,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,317.50742072606,364.49244115587,275.58278078423
+1,All Population,5,Prevalence,202,Cameroon,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,453.33145905381,517.88900101754,386.85123472185
+1,All Population,5,Prevalence,202,Cameroon,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.52749699105,4.25175436495,2.85586645461
+1,All Population,5,Prevalence,202,Cameroon,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,6.403106019390001,7.8730385391999995,5.15610864472
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,510.69705236310006,583.90205130151,437.40864231734
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,607.84622576558,698.05623755792,519.47881280327
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,7.32424320785,8.7861642836,5.95937813703
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,15.32498780761,17.97472930624,12.876165438480001
+1,All Population,5,Prevalence,413,Tokelau,1,Male,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,431.45501289891996,496.83391600844004,360.39616784789
+1,All Population,5,Prevalence,413,Tokelau,2,Female,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,555.82859719421,640.38387208211,465.16955559057
+1,All Population,5,Prevalence,413,Tokelau,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,1.44475871741,1.81159723435,1.16275352841
+1,All Population,5,Prevalence,413,Tokelau,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,3.47945578719,4.22516271791,2.81066361778
+1,All Population,5,Prevalence,422,United States Virgin Islands,1,Male,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,4.52048965901,5.33820836707,3.64017261566
+1,All Population,5,Prevalence,422,United States Virgin Islands,2,Female,27,Age-standardized,546,Multiple sclerosis,3,Rate,2023,13.8001115876,16.063278905300002,11.3825628901
